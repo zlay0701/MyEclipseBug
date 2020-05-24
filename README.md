@@ -22,5 +22,10 @@ see Correct video : https://github.com/zlay0701/MyEclipseBug/blob/master/Correct
 
 Correct video in MyEclipse 2019.4
 
+Sometimes entering letters or numbers produces different results
+
+This bug will also appear with Microsoft Pinyin input method
+
+
 
 
