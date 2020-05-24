@@ -1,6 +1,6 @@
 bug in MyEclipse2020.5.18  with Sogou Chinese Pinyin input method
 Sogou Chinese Pinyin input method: https://pinyin.sogou.com/
-in win10
+operation in win10
 
 Operational description:
 Double click ,Selected some characters,then Enter some new characters ,Press enter last.
