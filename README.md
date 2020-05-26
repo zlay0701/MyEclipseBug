@@ -26,8 +26,7 @@ Sometimes entering letters or numbers produces different results
 
 This bug will also appear with Microsoft Pinyin input method
 
-https://www.genuitec.com/forums/topic/bug-in-myeclipse2020-5-18-with-sogou-chinese-pinyin-input-method/
-
+https://www.genuitec.com/forums/topic/bug-in-myeclipse2020-5-18-with-sogou-chinese-pinyin-input-method-2/
 
 
 
